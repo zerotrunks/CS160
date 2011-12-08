@@ -1,0 +1,46 @@
+<?php
+
+function mymodule_action_mail_to_users_of_group_form($settings = array(), &$form) {
+  $form['settings']['group'] = array(
+    '#type' => 'textfield',
+    '#size' => 10,
+    '#title' => t('Group ID'),
+    '#prefix' => t('WARNING: This may cause problems if there are too many members in this group, as your server may not be able to handle all the mail requests all at once.'),
+    '#required' => TRUE,
+    '#default_value' => isset($settings['group']) ? $settings['group'] : array(),
+    '#description' => t('Supply the node ID (nid) of the target group.'),
+  );
+  // We rely on the Mail to user action to build the rest of the form fields.
+  rules_action_mail_to_user_form($settings, $form);
+}
+
+
+function mymodule_action_mail_to_users_of_group($settings) {
+  $from = ($settings['from']) ? str_replace(array("\r", "\n"), '', $settings['from']) : NULL;
+
+  if ($group = node_load($settings['group'])) {
+    // Query the database for all members of this group.
+    $sql = og_list_users_sql();
+    $res = db_query($sql, $group->nid);
+
+    // Send the messages.
+    $message = array('result' => TRUE);
+    while ($member = db_fetch_object($res)) {
+      $user = user_load(array('uid' => $member->uid));
+      if ($user->status) {
+        $message = drupal_mail('mymodule', 'action_mail_to_users_of_group', $member->mail, language_default(), $settings, $from);
+      }
+    }
+    if ($message['result']) {
+      watchdog('rules', 'Successfully sent email to the members of %group.', array('%group' => $group->title));
+    }
+  }
+}
+
+function mymodule_mail($key, &$message, $settings) {
+
+  $message['subject'] .= str_replace(array("\r", "\n"), '', $settings['subject']);
+  // Process the mail body.
+  $message['body'][] = drupal_html_to_text($settings['message']);
+}
+

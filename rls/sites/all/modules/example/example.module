@@ -1,0 +1,21 @@
+<?php
+  function example_notify($accounts) {
+    foreach ($accounts as $account) {
+      $params['account'] = $account;
+      // example_mail() will be called based on the first drupal_mail() parameter.
+      drupal_mail('example', 'notice', $account->mail, user_preferred_language($account), $params);
+    }
+  }
+
+  function example_mail($key, &$message, $params) {
+    $data['user'] = $params['account'];
+    $options['language'] = $message['language'];
+    user_mail_tokens($variables, $data, $options);
+    switch($key) {
+      case 'notice':
+        $langcode = $message['language']->language;
+        $message['subject'] = t('Notification from !site', $variables, array('langcode' => $langcode));
+        $message['body'][] = t("Dear !username\n\nThere is new content available on the site.", $variables, array('langcode' => $langcode));
+        break;
+    }
+  }

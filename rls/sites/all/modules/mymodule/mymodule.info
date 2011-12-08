@@ -1,0 +1,3 @@
+name = mymodule
+description = Gives an example of a mymodule.
+core = 7.x

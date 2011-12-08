@@ -1,0 +1,2 @@
+[02-Dec-2011 23:44:38] PHP Fatal error:  Call to undefined function  rules_action_mail_to_user_form() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/sites/all/modules/mymodule/mymodule.module on line 14
+[02-Dec-2011 23:45:34] PHP Fatal error:  Call to undefined function  rules_action_mail_to_user_form() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/sites/all/modules/mymodule/mymodule.module on line 14

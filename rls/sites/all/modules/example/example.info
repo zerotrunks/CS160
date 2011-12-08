@@ -1,0 +1,3 @@
+name = example
+description = Gives an example of a module.
+core = 7.x

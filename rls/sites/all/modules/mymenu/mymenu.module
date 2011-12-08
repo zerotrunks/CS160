@@ -1,0 +1,6 @@
+<?php
+
+function mymenu_menu_alter(&$items) 
+{     
+$items['user/%user/points']['access callback'] = false;
+}

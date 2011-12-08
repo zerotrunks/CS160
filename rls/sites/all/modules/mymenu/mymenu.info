@@ -1,0 +1,3 @@
+name = mymenu
+description = my menu removes points tab
+core = 7.x
