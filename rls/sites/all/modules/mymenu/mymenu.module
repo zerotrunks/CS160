@@ -1,6 +1,74 @@
 <?php
 
+
 function mymenu_menu_alter(&$items) 
 {     
 $items['user/%user/points']['access callback'] = false;
+$items['node/%node/edit']['title callback'] = 'modify_edit_title';
+$items['node/%node/edit']['title arguments'] = array(1);
+
+$items['node/%node/view']['title callback'] = 'modify_view_title';
+$items['node/%node/view']['title arguments'] = array(1);
+
+}
+
+function modify_edit_title($node) {
+
+
+global $user;
+$rids = array_keys($user->roles);
+$user_rid;
+
+if (sizeof($rids)==1)
+{
+$user_rid=$rids[0];
+}
+ 
+else
+{
+$user_rid=$rids[1];
+}
+
+
+  if ((($node->type == 'confidential_recommendation')
+|| ($node->type == 'recommendation_request')) 
+&& (($user_rid==9) || ($user_rid==3))) {
+    return ('Compose Letter');
+  }
+
+//else return the default value
+  else {
+    return t('Edit');
+  }
+}
+
+
+function modify_view_title($node) {
+
+
+global $user;
+$rids = array_keys($user->roles);
+$user_rid;
+
+if (sizeof($rids)==1)
+{
+$user_rid=$rids[0];
+}
+ 
+else
+{
+$user_rid=$rids[1];
+}
+
+
+  if ((($node->type == 'confidential_recommendation')
+|| ($node->type == 'recommendation_request')) 
+&& (($user_rid==9) || ($user_rid==3))) {
+    return t('View Request');
+  }
+
+//else return the default value
+  else {
+    return t('View');
+  }
 }

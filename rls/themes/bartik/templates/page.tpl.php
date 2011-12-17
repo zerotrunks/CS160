@@ -87,12 +87,8 @@
 <div id="page-wrapper"><div id="page">
 
   <div id="header" class="<?php print $secondary_menu ? 'with-secondary-menu': 'without-secondary-menu'; ?>"><div class="section clearfix">
-
-    <?php if ($logo): ?>
-      <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" id="logo">
-        <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
-      </a>
-    <?php endif; ?>
+<div><a href="/rls"><img src="http://www.160fall2011sec1group2.cs-sjsu.org/banner.png"/></a></div> 
+   	<a href="http://cs.sjsu.edu"><img src="http://www.160fall2011sec1group2.cs-sjsu.org/hmm.bmp"></a>
 
     <?php if ($site_name || $site_slogan): ?>
       <div id="name-and-slogan"<?php if ($hide_site_name && $hide_site_slogan) { print ' class="element-invisible"'; } ?>>
@@ -101,7 +97,6 @@
           <?php if ($title): ?>
             <div id="site-name"<?php if ($hide_site_name) { print ' class="element-invisible"'; } ?>>
               <strong>
-                <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home"><span><?php print $site_name; ?></span></a>
               </strong>
             </div>
           <?php else: /* Use h1 when the content title is empty */ ?>
@@ -225,6 +220,11 @@
   <?php endif; ?>
 
   <div id="footer-wrapper"><div class="section">
+
+
+<center>  <a href="http://www.sjsu.edu/">San Jose State University</a> | <a href="http://www.cs.sjsu.edu/">Computer Science Department </a> | <a href="http://160fall2011sec1group2.cs-sjsu.org/about">About</a> 
+</center>
+
 
     <?php if ($page['footer_firstcolumn'] || $page['footer_secondcolumn'] || $page['footer_thirdcolumn'] || $page['footer_fourthcolumn']): ?>
       <div id="footer-columns" class="clearfix">

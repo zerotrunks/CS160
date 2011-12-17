@@ -1,2 +1,41 @@
 [02-Dec-2011 23:44:38] PHP Fatal error:  Call to undefined function  rules_action_mail_to_user_form() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/sites/all/modules/mymodule/mymodule.module on line 14
 [02-Dec-2011 23:45:34] PHP Fatal error:  Call to undefined function  rules_action_mail_to_user_form() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/sites/all/modules/mymodule/mymodule.module on line 14
+[07-Dec-2011 22:16:55] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:17:05] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:28:25] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:30:03] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:30:07] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:30:37] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:30:53] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:31:02] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[07-Dec-2011 22:32:56] PHP Fatal error:  Call to undefined function fb_vars() in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/modules/php/php.module(74) : eval()'d code on line 5
+[08-Dec-2011 04:29:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/cssjsuor/public_html/160fall2011sec1group2/rls/phpcodes/dbconnect.php on line 1
+[15-Dec-2011 22:50:41] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:50:58] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:07] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:09] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:24] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:27] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:32] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:51:45] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 22:52:27] PHP Fatal error:  Call to undefined function load_view() in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/php/php.module(74) : eval()'d code on line 2
+[15-Dec-2011 23:26:09] PHP Fatal error:  Cannot access empty property in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/field/field.attach.inc on line 314
+[15-Dec-2011 23:26:28] PHP Fatal error:  Cannot access empty property in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/field/field.attach.inc on line 314
+[15-Dec-2011 23:26:49] PHP Fatal error:  Cannot access empty property in /home7/cssjsuor/public_html/160fall2011sec1group2/modules/field/field.attach.inc on line 314
+[16-Dec-2011 17:13:48] PHP Parse error:  syntax error, unexpected '}' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 6
+[16-Dec-2011 17:16:08] PHP Parse error:  syntax error, unexpected '}' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 6
+[16-Dec-2011 17:19:09] PHP Parse error:  syntax error, unexpected '}' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 7
+[16-Dec-2011 17:44:49] PHP Parse error:  syntax error, unexpected ')' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 3
+[16-Dec-2011 17:45:15] PHP Parse error:  syntax error, unexpected ')' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 3
+[16-Dec-2011 17:46:50] PHP Parse error:  syntax error, unexpected ')' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 3
+[16-Dec-2011 17:49:10] PHP Parse error:  syntax error, unexpected ')' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 17:51:02] PHP Parse error:  syntax error, unexpected ')' in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 5
+[16-Dec-2011 17:54:12] PHP Fatal error:  Call to undefined function db_result() in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 17:54:23] PHP Fatal error:  Call to undefined function db_result() in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 17:55:52] PHP Parse error:  syntax error, unexpected T_STRING in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 6
+[16-Dec-2011 17:56:07] PHP Parse error:  syntax error, unexpected T_STRING in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 6
+[16-Dec-2011 17:58:03] PHP Parse error:  syntax error, unexpected T_STRING in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 5
+[16-Dec-2011 18:11:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 18:12:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 18:14:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4
+[16-Dec-2011 18:15:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/cssjsuor/public_html/160fall2011sec1group2/sites/all/modules/rules/modules/php.eval.inc(146) : eval()'d code on line 4

@@ -1,0 +1,139 @@
+12/11-02:01:16<>Tseng says<><b>Eugene</b> has left chat!<>#878796<>
+12/11-02:00:59<>Eugene<>good night<>00FF00<>
+12/11-02:00:57<>Eugene<>alright well thanks man I apprecaite it<>00FF00<>
+12/11-02:00:55<>Tseng<>good night man<>FFD684<>
+12/11-02:00:50<>Tseng<>kk<>FFD684<>
+12/11-02:00:34<>Eugene<>The logo is all <>00FF00<>
+12/11-02:00:13<>Eugene<>nah man that's it thanks'<>00FF00<>
+12/11-02:00:06<>Eugene<>well yeah the path changed a couple hours ago to that which was why I thought we were unclear on it<>00FF00<>
+12/11-01:59:43<>Tseng<>is there anything else you need me to work on?<>FFD684<>
+12/11-01:59:28<>Tseng<>thanks though<>FFD684<>
+12/11-01:59:25<>Tseng<>haha, yeah... it took me a few tries, but i figured that path a while ago<>FFD684<>
+12/11-01:59:15<>Eugene<>.. that's what I registered the computer with when I installed windows hehe<>00FF00<>
+12/11-01:58:51<>Eugene<>pat lol<>00FF00<>
+12/11-01:58:45<>Eugene<>whoops minus the C:<>00FF00<>
+12/11-01:58:38<>Eugene<> C:\Documents and Settings\pat\Desktop\Newest-Dec-7v3\rls\themes\bartik\templates<>00FF00<>
+12/11-01:58:25<>Tseng<>sure thing<>FFD684<>
+12/11-01:58:20<>Tseng<>i didn't go the CSS route because it wasn't needed at the moment<>FFD684<>
+12/11-01:58:10<>Eugene<>okay so just work on the logo when you got a chance, I worked on the old one yesterday.<>00FF00<>
+12/11-01:58:07<>Tseng<>but i know which one you guys are using<>FFD684<>
+12/11-01:58:01<>Tseng<>there are 3 files with that name in the whole rls folder<>FFD684<>
+12/11-01:57:49<>Tseng<>just when you say the filename without the path<>FFD684<>
+12/11-01:57:45<>Eugene<>okay cool<>00FF00<>
+12/11-01:57:40<>Eugene<>or some kinda CSS file?<>00FF00<>
+12/11-01:57:39<>Tseng<>yeah<>FFD684<>
+12/11-01:57:26<>Eugene<>is that where your code goes<>00FF00<>
+12/11-01:57:15<>Eugene<>the code can just be in page.tpl.php<>00FF00<>
+12/11-01:56:58<>Eugene<>so real quick<>00FF00<>
+12/11-01:56:36<>Eugene<>not sure yet<>00FF00<>
+12/11-01:56:35<>Tseng<>all right<>FFD684<>
+12/11-01:56:32<>Eugene<>something like that<>00FF00<>
+12/11-01:56:25<>Eugene<>yeah but I can handle that, it might need to be in a panel using a custom layout<>00FF00<>
+12/11-01:55:59<>Eugene<>ok thanks dude but tomorrow not now, whenever<>00FF00<>
+12/11-01:55:42<>Tseng<>do you want the sjsu link on the bottom?<>FFD684<>
+12/11-01:55:37<>Eugene<>because it will be so small<>00FF00<>
+12/11-01:55:25<>Tseng<>sure... yeah, i can do that<>FFD684<>
+12/11-01:55:21<>Eugene<>to capture image then zoom in paintshop and wehen image finally gets scaled down the imperfections will vanish<>00FF00<>
+12/11-01:54:51<>Eugene<>just take a maximum screen zoom<>00FF00<>
+12/11-01:54:23<>Tseng<>yeah, but it won't look nice since the logo design was made for white<>FFD684<>
+12/11-01:54:08<>Eugene<>hex 94002b<>00FF00<>
+12/11-01:53:52<>Eugene<>but if we settle on red can you go in paintshop and make the background of logo the same color as the red?<>00FF00<>
+12/11-01:53:22<>Eugene<>don't worry about it for now,<>00FF00<>
+12/11-01:53:18<>Tseng<>all right<>FFD684<>
+12/11-01:52:43<>Eugene<>not trying to ber bossy and shit, I am kinda tired of thinking about the aethethics to be honest<>00FF00<>
+12/11-01:52:37<>Tseng<>instead of having it on the bottom and adding more space to the page?<>FFD684<>
+12/11-01:52:20<>Tseng<>do you want me to overlay it on the bottom left of the banner?<>FFD684<>
+12/11-01:52:13<>Eugene<>not trying to piss you off by the way, just trying to get on same page<>00FF00<>
+12/11-01:52:02<>Tseng<>hey<>FFD684<>
+12/11-01:51:53<>Eugene<>hat is not necessary'<>00FF00<>
+12/11-01:51:47<>Eugene<>yes. 3 places eh?<>00FF00<>
+12/11-01:51:33<>Eugene<>but hey the thing is if its red can you change the bg image in paint then?<>00FF00<>
+12/11-01:51:19<>Tseng<>the sjsu one?<>FFD684<>
+12/11-01:51:03<>Tseng<>hey<>FFD684<>
+12/11-01:51:00<>Eugene<>could you remove it real quick?<>00FF00<>
+12/11-01:50:50<>Eugene<>doesn't say it in doc I don;t think<>00FF00<>
+12/11-01:50:49<>Tseng<>all right, i'll do that<>FFD684<>
+12/11-01:50:43<>Tseng<>sorry... i must have been out of it<>FFD684<>
+12/11-01:50:39<>Tseng<>gotcha<>FFD684<>
+12/11-01:50:34<>Tseng<>should i remove the sjsu logo or put it on the bottom?<>FFD684<>
+12/11-01:50:26<>Eugene<>about the sjsu cs link on top and sjsu link on bottom<>00FF00<>
+12/11-01:50:12<>Eugene<>he said it in class last time<>00FF00<>
+12/11-01:49:59<>Eugene<>true<>00FF00<>
+12/11-01:49:52<>Tseng<>it looks a lot better than that nasty blue<>FFD684<>
+12/11-01:49:41<>Tseng<>is it specified where?<>FFD684<>
+12/11-01:49:34<>Eugene<>so red looks better to you?<>00FF00<>
+12/11-01:49:29<>Tseng<>all right<>FFD684<>
+12/11-01:49:20<>Eugene<>the other one should be somewhere else on site.<>00FF00<>
+12/11-01:49:03<>Eugene<>under the banner? that was just the link to CS site but not both<>00FF00<>
+12/11-01:48:59<>Tseng<>so should both the CS and SJSU logo go there?<>FFD684<>
+12/11-01:48:47<>Tseng<>all right<>FFD684<>
+12/11-01:48:30<>Tseng<>if i were to change the background color... i'd change it in the css file... but i didn't<>FFD684<>
+12/11-01:48:29<>Eugene<>but if you want it don't matter to me<>00FF00<>
+12/11-01:48:18<>Eugene<>he said nothing about that<>00FF00<>
+12/11-01:48:13<>Eugene<>there is a home tab<>00FF00<>
+12/11-01:48:08<>Eugene<>its not necessasry<>00FF00<>
+12/11-01:47:49<>Eugene<>what do you mean, what are the names of the files you altered<>00FF00<>
+12/11-01:47:46<>Tseng<>and should the banner have a link to the homepage?<>FFD684<>
+12/11-01:47:31<>Tseng<>what needs to go under the banner<>FFD684<>
+12/11-01:47:30<>Eugene<>in page.tpl.php?<>00FF00<>
+12/11-01:47:19<>Tseng<>but anyway....<>FFD684<>
+12/11-01:47:10<>Eugene<>so that background color is fine with me, I think it looks better than the blue<>00FF00<>
+12/11-01:47:09<>Tseng<>there are 3 places with that same filename<>FFD684<>
+12/11-01:46:38<>Eugene<>page.tpl right?<>00FF00<>
+12/11-01:46:10<>Eugene<>ok changed<>00FF00<>
+12/11-01:46:05<>Eugene<>template is php<>00FF00<>
+12/11-01:46:00<>Eugene<>nah template is not <>00FF00<>
+12/11-01:44:30<>Tseng<>i'm doing pure html/css.... which may conflict with what you two are using<>FFD684<>
+12/11-01:44:27<>Eugene<>no worries<>00FF00<>
+12/11-01:44:18<>Eugene<>sure hold on<>00FF00<>
+12/11-01:44:15<>Tseng<>i'm not sure how you guys are changing the color, so i don't wanna mess with it my way<>FFD684<>
+12/11-01:43:51<>Tseng<>can you change it back to red and we'll see<>FFD684<>
+12/11-01:43:49<>Eugene<>*altering<>00FF00<>
+12/11-01:43:42<>Eugene<>so if you want to be responsible for alreaing the logo that is cool <>00FF00<>
+12/11-01:43:18<>Eugene<>yea<>00FF00<>
+12/11-01:43:14<>Eugene<>or something adaobe if you have it<>00FF00<>
+12/11-01:43:14<>Tseng<>have you checked out the site?<>FFD684<>
+12/11-01:42:59<>Eugene<>well the thing is whatever color we choose the logo background needs to be changed from white to that color in like paint<>00FF00<>
+12/11-01:42:29<>Eugene<>now on our site it looked even worse<>00FF00<>
+12/11-01:42:23<>Tseng<>so is the one i put on fine?<>FFD684<>
+12/11-01:42:18<>Eugene<>yes it true, its already suffered resolution loss on his site<>00FF00<>
+12/11-01:41:58<>Eugene<>in the docs he just says matching logo<>00FF00<>
+12/11-01:41:50<>Tseng<>that was such a bad quality pic<>FFD684<>
+12/11-01:41:38<>Eugene<>the thing is whatever color we pick, the logo needs to be changed in paint<>00FF00<>
+12/11-01:41:28<>Tseng<>he says we "have" to use that logo?<>FFD684<>
+12/11-01:41:23<>Tseng<>well<>FFD684<>
+12/11-01:41:17<>Eugene<>of you have an idea about a better color to use.<>00FF00<>
+12/11-01:40:59<>Eugene<>do you think the old red is better?<>00FF00<>
+12/11-01:40:59<>Tseng says<><b>Tseng</b> has come to chat!<>#878796<>
+12/11-01:40:23<>Eugene<>I just don't know what color you think would be good.<>00FF00<>
+12/11-01:39:58<>Eugene<>yo man not trying to keep you, just that I think we should discuss real quick so the header color I agree with<>00FF00<>
+12/11-01:39:22<>Eugene<>hallo <>00FF00<>
+12/11-01:36:11<>Tseng says<><b>Eugene</b> has come to chat!<>#878796<>
+12/10-23:46:17<>Tseng says<><b>123</b> has come to chat!<>#878796<>
+12/10-17:37:20<>Tseng says<><b>Eugene</b> has left chat!<>#878796<>
+12/10-17:37:04<>Eugene<><font color="8F182E"> test</font><>FFD684<>
+12/10-17:36:19<>Eugene<><font color="3b3b3b"> test </font><>FFD684<>
+12/10-17:35:19<>Eugene<><font color="94002b"> test</font><>FFD684<>
+12/10-17:34:49<>Eugene<><font color='94002b'><>FFD684<>
+12/10-17:34:35<>Tseng says<><b>Eugene</b> has come to chat!<>#878796<>
+12/10-16:40:44<>Eugene<>thanks I am very curious about this<>00FF00<>
+12/10-16:40:12<>123<>thanks again man<>FFD684<>
+12/10-16:40:10<>Eugene<>ok<>00FF00<>
+12/10-16:40:02<>123<>gotta go, i'll email you if i run into problems<>FFD684<>
+12/10-16:39:53<>123<>maybe it's mee<>FFD684<>
+12/10-16:39:52<>123<>to see what they see<>FFD684<>
+12/10-16:39:49<>123<>i'll ask khoi and duc<>FFD684<>
+12/10-16:39:45<>123<>yeah, it's still red<>FFD684<>
+12/10-16:39:44<>Eugene<>really strange<>00FF00<>
+12/10-16:39:37<>123<>i'll check it out after church<>FFD684<>
+12/10-16:39:35<>Eugene<>I mean the header is still red huh? <>00FF00<>
+12/10-16:39:33<>123<>no worries man<>FFD684<>
+12/10-16:39:03<>123<>nope<>FFD684<>
+12/10-16:38:46<>123<>lemme log in as admin<>FFD684<>
+12/10-16:38:39<>Eugene<>so that is not what you see?<>00FF00<>
+12/10-16:38:28<>Eugene<><img src=http://www.160fall2011sec1group2.cs-sjsu.org/c.jpg><>00FF00<>
+12/10-16:37:57<>Eugene<>wrong path<>00FF00<>
+12/10-16:37:51<>Eugene<>oh yeah duh I know why<>00FF00<>
+12/10-16:37:38<>Eugene<>ahh shit nevermind<>00FF00<>
+12/10-16:37:34<>123<>lemme get dressed in the meantime<>FFD684<>
+12/10-16:37:30<><b><font face="times new roman" size="4">Tseng has cleared chat!</font></b><><>#878796<>
